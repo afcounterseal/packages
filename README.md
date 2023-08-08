@@ -1,1 +1,1 @@
-# Pre-built binary installation packages of related softwares
+# Pre-built binary packages of related softwares
